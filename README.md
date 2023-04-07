@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL Laguage & MySQL**
 
-- 👨‍💻 All of my projects are available at [https://neyenvrhovski.github.io/Portfolio/](https://neyenvrhovski.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://nvrhovski.github.io/portfolio/](https://nvrhovski.github.io/portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Next Js**
 
