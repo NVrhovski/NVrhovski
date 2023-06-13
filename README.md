@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nvrhovski.github.io/portfolio/](https://nvrhovski.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Next Js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Next Js, PHP, MySQL**
 
 - 📫 How to reach me **neyenvrhovski@gmail.com**
 
